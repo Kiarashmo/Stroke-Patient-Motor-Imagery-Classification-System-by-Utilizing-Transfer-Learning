@@ -9,19 +9,10 @@ Given the abundance of large-scale and accessible datasets from healthy subjects
 Our initial results suggest that our method achieved an accuracy of 90% on the healthy dataset. However, the accuracy observed on the stroke patient dataset was average. We anticipate seeing enhanced results after doing some improvements in preprocessing and hyperparameter tuning. In addition, we would like to explore the effect of the EEG channel selection on the model performance and also experiment with a subject-specific transfer learning model.
 
 ## Project Structure
-- `data/`: Contains the preprocessed dataset used for training and evaluation.
-- `notebooks/`: Jupyter notebooks detailing data preprocessing, model training, and evaluation.
+- `notebooks/`: Jupyter notebooks detailing data preprocessing, model training, visualizations, and evaluation.
 - `models/`: Saved model weights and architecture configurations for reproducibility.
-- `results/`: Outcome metrics, visualizations, and comparisons with baseline methods.
+- `results/`: Outcome metrics, and comparisons with baseline methods.
 - `documentation/`: Detailed project documentation, including research papers and presentation materials.
-
-## How to Use
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
-3. Preprocess the data using the provided notebooks in `notebooks/`.
-4. Train the model and fine-tune using transfer learning with the stroke patient dataset.
-5. Evaluate the model's performance using the evaluation notebooks in `notebooks/`.
-6. Explore and contribute to the project for further improvements.
 
 ## Contribution
 We welcome contributions to this project that can help advance the classification of motor-imagery movements for stroke patient rehabilitation. If you have any suggestions or enhancements, please feel free to submit a pull request.

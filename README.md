@@ -13,7 +13,6 @@ Our initial results suggest that our method achieved an accuracy of 90% on the h
 
 ## Datasets
 - Normal MI (Source dataset): [EEG Motor Movement/Imagery Dataset (EEGMMI)](https://physionet.org/content/eegmmidb/1.0.0/)
-- Paperswithcode: [PhysioNet Motor Movement/Imagery Dataset (Paperswithcode)](https://paperswithcode.com/dataset/physionet-mmi)
 - Stroke MI (Target dataset): [EEG datasets of stroke patients (Figshare)](https://figshare.com/articles/dataset/EEG_datasets_of_stroke_patients/21679035/3)
 
 ## Project Structure

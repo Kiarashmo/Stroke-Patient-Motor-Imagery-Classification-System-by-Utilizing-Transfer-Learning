@@ -22,7 +22,7 @@ Our initial results suggest that our method achieved an accuracy of 90% on the h
 - `documentation/`: Detailed project documentation, including research papers and presentation materials.
 
 ## Contribution
-We welcome contributions to this project that can help advance the classification of motor-imagery movements for stroke patient rehabilitation. If you have any suggestions or enhancements, please feel free to submit a pull request.
+We welcome contributions to this project that can help advance the classification of motor-imagery movements for stroke patient rehabilitation. If you have any suggestions or improvements, please feel free to submit a pull request.
 
 ## License
 This project is licensed under the MIT License(LICENSE).

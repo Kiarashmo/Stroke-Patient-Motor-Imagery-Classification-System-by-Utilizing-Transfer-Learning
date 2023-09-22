@@ -5,6 +5,8 @@ Brain-computer interfaces (BCI), powered by the classification of brain signals 
 
 Given the abundance of large-scale and accessible datasets from healthy subjects, we aimed to investigate whether a model trained on healthy individuals' brain data could help overcome the shortage of stroke patients' data and improve the classification of their imagery movements. To address this, we formulated the problem as a binary hand movement imagery classification task, focusing on distinguishing between imagining the opening and closing of the left or right fist. In the beginning, we utilized EEGNet as the base model of our pipeline and trained it initially on healthy subjects’ motor imagery dataset. Following this initial training, we employed transfer learning techniques and fine-tuned the model for our stroke patients dataset.
 
+![Model overview](model.png)
+
 ## Our Task
 Classify whether the brain signal corresponds to the left or right hand
 
